@@ -7,7 +7,7 @@ A chatbot that accepts image input, processes it using optical character recogni
 1) Clone this repo
 
 git clone (https://github.com/Devashish0210/ML-Chatbot.git)
-cd <your-project-folder>
+cd your-project-folder
 
 2) Create a virtual environment (optional but recommended)
 
